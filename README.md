@@ -9,7 +9,7 @@
 
   <p align="center">
 
-<a href="#"><img title="LISA-BHI" src="https://img.shields.io/badge/Lisa-bhi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="LISA-BHI" src="20221110_173616.jpg"></a>
 
 </p>
 
