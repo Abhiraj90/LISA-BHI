@@ -19,9 +19,9 @@
 
 # LISA-BHI-V1.0
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/A-b-h-i-6/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Abhiraj90/count.svg)
 
-    [©] LISA-MD New Features
+    [©] LISA-BHI New Features
 
      > Playstore Apk Downloder [.downapk]
      > Playstore Apk searcher [.apk]
@@ -36,7 +36,7 @@
    
 # Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+LISA+MD+WA+BOT.;CREATED+BY+ABHI+;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+LISA+BHI+WA+BOT.;CREATED+BY+ABHI+;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
  </a>
 
