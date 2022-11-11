@@ -46,15 +46,13 @@
 
 1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK]()
+2. Click [FORK](https://github.com/Abhiraj90/LISA-BHI/fork)
 
 2. After That Upload Session.json File
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
-
-DEPLOY STEPS
+4. DEPLOY STEPS
 # 
 1. Fork this repository 
 2. scan qr code
@@ -62,10 +60,7 @@ DEPLOY STEPS
 4. make deploy link
 5. deploy using your link 💖
 
-
 THANAKS 📍🦋
-
-
 
 ## Owner:
 * [`Abhi`](https://github.com/Abhiraj90)
