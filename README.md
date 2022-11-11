@@ -57,7 +57,7 @@
 3. uplode qr code your forked repo
 4. make deploy link
 5. deploy using your link 💖
-
+#
 THANAKS 📍🦋
 
 ## Owner:
