@@ -42,11 +42,11 @@
 
 </p>
 
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
+ ## My Website : [Click Heare]()
 
 1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/A-b-h-i-6/LISA-MD/fork)
+2. Click [FORK]()
 
 2. After That Upload Session.json File
 
@@ -71,7 +71,4 @@ THANAKS 📍🦋
 * [`Abhi`](https://github.com/Abhiraj90)
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
-* [`Sanuwa-Official`](https://github.com/sanuwaofficial)
+*...
