@@ -42,7 +42,7 @@
 
  ## My Website : [Click Heare]()
 
-1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/Abhiraj90/LISA-BHI/fork)
 
