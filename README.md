@@ -3,8 +3,6 @@
 
   <p align="center">
 
-<img src="images (37).jpeg" alt="GIF" width="300" height="270"/>
-
 </p>
 
   <p align="center">
