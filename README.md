@@ -54,6 +54,18 @@
 
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
+DEPLOY STEPS
+# 
+1. Fork this repository 
+2. scan qr code
+3. uplode qr code your forked repo
+4. make deploy link
+5. deploy using your link 💖
+
+
+THANAKS 📍🦋
+
+
 
 ## Owner:
 * [`Abhi`](https://github.com/Abhiraj90)
