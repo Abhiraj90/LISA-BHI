@@ -20,6 +20,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Abhiraj90/count.svg)
 
     [©] LISA-BHI New Features
+          Comming soon 
 
      > Playstore Apk Downloder [.downapk]
      > Playstore Apk searcher [.apk]
